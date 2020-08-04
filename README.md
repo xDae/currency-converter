@@ -1,3 +1,23 @@
+## About the assignment
+# InterviewAssignmentFrontendReact
+Your assignment is to create a frontend for a currency converter (see the photo in the design folder).
+
+1. The User inputs a monetary amount (amount and currency) and selects into which currency to convert. Supported currencies for input and output are EUR, USD, YEN and CHF.
+
+2. At the press of a button, the website will show the converted amount to the user. Implement the conversion logic in your app by usign todays exchange rates.
+
+3. The app has a history component where all the previous transactions are stored and displayed. Impement this component.
+
+You have 75 minutes to work on the assignment. Please take these hints into consideration:
+
+- We are interested in seeing your working and thinking process. Articulating your thoughts will improve your chances.
+- If you have questions regarding the assignment, don't hesitate to ask your interviewer. You can also use them to validate your thinking.
+- You are required to implement the essential functionality, but you are free to use external dependecies as utilities for testing.
+- Feel free to use the power of the internet to look things up.
+
+
+
+## React CLI stuff
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

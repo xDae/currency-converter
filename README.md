@@ -6,7 +6,7 @@ Your assignment is to create a frontend for a currency converter (see the photo 
 
 2. At the press of a button, the website will show the converted amount to the user. Implement the conversion logic in your app by usign todays exchange rates.
 
-3. The app has a history component where all the previous transactions are stored and displayed. Impement this component.
+3. The app has a history component where all the previous transactions are stored and displayed. Implement this component.
 
 You have 75 minutes to work on the assignment. Please take these hints into consideration:
 
